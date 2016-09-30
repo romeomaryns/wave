@@ -11,13 +11,13 @@
     <name>config-microservice</name>
 
     <parent>
-        <groupId>org.kbastani</groupId>
-        <artifactId>spring-cloud-microservice-example-parent</artifactId>
+        <groupId>eu.maryns</groupId>
+        <artifactId>wave-parent</artifactId>
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
     <properties>
-        <docker.image.prefix>kbastani</docker.image.prefix>
+        <docker.image.prefix>romeomaryns</docker.image.prefix>
         <start-class>services.Application</start-class>
     </properties>
 

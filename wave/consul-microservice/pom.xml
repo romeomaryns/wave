@@ -6,9 +6,9 @@
     <artifactId>consul-microservice</artifactId>
     <version>0.1.0</version>
     <packaging>jar</packaging>
-    <groupId>org.kbastani</groupId>
+    <groupId>eu.maryns</groupId>
     <properties>
-        <docker.image.prefix>kbastani</docker.image.prefix>
+        <docker.image.prefix>romeomaryns</docker.image.prefix>
         <docker.plugin.version>0.3.258</docker.plugin.version>
     </properties>
     <dependencies>

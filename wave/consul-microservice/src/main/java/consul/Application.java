@@ -41,9 +41,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.PostConstruct;
 
-/**
- * @author Spencer Gibb, Kenny Bastani
- */
+
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableConsulUi
