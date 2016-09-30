@@ -11,7 +11,7 @@ spring:
         enabled: true
       server:
         git:
-          uri: https://github.com/kbastani/spring-boot-microservice-config
+          uri: https://github.com/romeomaryns/wave/spring-boot-microservice-config
         health:
           repositories:
             movie:
